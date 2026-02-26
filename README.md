@@ -40,7 +40,7 @@ This project lives inside an **Nx monorepo** (`test/Habits-Tracker/`). Two apps 
 
 ```bash
 git clone https://github.com/yourusername/habit-tracker.git
-cd test/Habits-Tracker
+cd Habits-Tracker
 npm install
 ```
 
