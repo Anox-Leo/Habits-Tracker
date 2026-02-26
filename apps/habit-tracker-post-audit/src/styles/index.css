@@ -1,0 +1,6 @@
+/* Base styles and variables */
+@import './reset.css';
+
+/* Global responsive and accessibility styles */
+@import './responsive.css';
+@import './accessibility.css';
